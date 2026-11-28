@@ -189,7 +189,7 @@ Com base nas vulnerabilidades exploradas neste laboratório, seguem recomendaç�
 
 ## 📚 Aprendizados
 
-Este laboratório permitiu compreender, na prática, como ataques de força bruta são conduzidos contra diferentes tipos de serviços, e como pequenas falhas de configuração (senhas fracas, serviços desatualizados, ausência de bloqueio de tentativas) podem comprometer totalmente um sistema. Mais do que executar o ataque, o processo de documentação reforçou a importância de registrar evidências técnicas de forma clara, algo essencial tanto para relatórios de pentest quanto para portfólio profissional.
+Este laboratório me permitiu compreender, na prática, como ataques de força bruta são conduzidos contra diferentes tipos de serviços, e como pequenas falhas de configuração (senhas fracas, serviços desatualizados, ausência de bloqueio de tentativas, utilizar uma mesma senha pra vários logins) podem comprometer totalmente um sistema. Mais do que executar o ataque, o processo de documentação reforçou a importância de registrar evidências técnicas de forma clara, algo essencial tanto para relatórios de pentest quanto para portfólio profissional.
 
 ---
 
